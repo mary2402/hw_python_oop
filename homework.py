@@ -20,7 +20,7 @@ class InfoMessage:
 
 
 class Training:
-    """Базовый класс тренировки."""
+    """Базовый класс тренировки!."""
     LEN_STEP: float = 0.65
     M_IN_KM: float = 1000
 
